@@ -1,5 +1,7 @@
 # Comprehensive Stock Trade Tracking System with Real-Time Analysis
 ![Repo Thumbnail](https://github.com/Manuel-7tin/Stock_trade_tracking_system/blob/main/stock_trade_code_cover.jpg)
+
+
 Welcome to the Comprehensive Stock Trade Tracking System, a meticulously
 engineered solution that showcases efficient market analysis. This system is
 designed to provide valuable insights and aid in informed decision-making
