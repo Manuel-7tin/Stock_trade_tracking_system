@@ -1,5 +1,9 @@
 # Comprehensive Stock Trade Tracking System with Real-Time Analysis
-Welcome to the Comprehensive Stock Trade Tracking System, a meticulously engineered solution that showcases efficient market analysis. This system is designed to provide valuable insights and aid in informed decision-making within the stock market.
+![Repo Thumbnail](https://github.com/Manuel-7tin/Stock_trade_tracking_system/blob/main/stock_trade_code_cover.jpg)
+Welcome to the Comprehensive Stock Trade Tracking System, a meticulously
+engineered solution that showcases efficient market analysis. This system is
+designed to provide valuable insights and aid in informed decision-making
+within the stock market.
 
 # Key Features:
 **Real-Time Data Integration:** Seamless integration of multiple APIs to ensure up-to-date and accurate stock market data.
